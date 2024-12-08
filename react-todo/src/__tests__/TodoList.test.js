@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { render, screen, fireEvent } from '@testing-library/react';
 import TodoList from '../components/TodoList';
 
@@ -39,3 +40,6 @@ describe('TodoList Component', () => {
   });
 });
 
+=======
+// Placeholder content for src/__tests__/TodoList.test.js
+>>>>>>> 2a43d45efb77c5dd2e42b85f057e220c30bc27ee

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import { Formik, Form, Field, ErrorMessage } from 'formik';
 import * as Yup from 'yup';
@@ -66,3 +67,6 @@ const FormikForm = () => {
 };
 
 export default FormikForm;
+=======
+// Placeholder content for src/components/formikForm.js
+>>>>>>> 2a43d45efb77c5dd2e42b85f057e220c30bc27ee
